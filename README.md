@@ -23,6 +23,7 @@ This repository serves as the official public registry for independent technical
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **`AHT-SEC-2026-PKI-01`** | Russian National Root CA (`Russian Trusted Root CA`) & Client Trust Architecture (`Yandex Browser`) | `PKI` | ![CRITICAL](https://img.shields.io/badge/Risk-CRITICAL-red) | 2026-10 | [🇬🇧 English](./reports/2026/AHT-SEC-2026-PKI-01/REPORT.md) \| [🇷🇺 Русский](./reports/2026/AHT-SEC-2026-PKI-01/REPORT.ru.md) |
 | **`AHT-SEC-2026-NET-02`** | SimpleX Chat Protocol (`SMP` / `XFTP`) & Zero-Identifier Network Architecture (`chat.simplex.app`) | `NET` | ![LOW](https://img.shields.io/badge/Risk-LOW%20(Grade%20A%2B)-brightgreen) | 2026-10 | [🇬🇧 English](./reports/2026/AHT-SEC-2026-NET-02/REPORT.md) \| [🇷🇺 Русский](./reports/2026/AHT-SEC-2026-NET-02/REPORT.ru.md) |
+| **`AHT-SEC-2026-APP-03`** | Element Messenger Client (`im.vector.app` / `io.element.android.x`) & Matrix Federated Protocol (`vodozemac`) | `APP` | ![MEDIUM](https://img.shields.io/badge/Risk-MEDIUM%20(Grade%20B%2B)-yellow) | 2026-10 | [🇬🇧 English](./reports/2026/AHT-SEC-2026-APP-03/REPORT.md) \| [🇷🇺 Русский](./reports/2026/AHT-SEC-2026-APP-03/REPORT.ru.md) |
 
 ---
 
